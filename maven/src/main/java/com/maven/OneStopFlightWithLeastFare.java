@@ -39,7 +39,7 @@ public class OneStopFlightWithLeastFare {
 		return str;
 	}catch(Exception e) {
 		try {
-			utilityObj.takeSnapShot(driver, System.getProperty("user.dir")+File.separator+"Snapshot"+File.separator+"test.png");
+			utilityObj.takeSnapShot(driver, System.getProperty("user.dir")+File.separator+"Snapshot"+File.separator+utilityObj.getTimeStamp()+"test.png");
 		} catch (Exception e1) {
 			e1.printStackTrace();
 		}

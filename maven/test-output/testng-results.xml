@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="20617" started-at="2020-09-17T10:56:08 IST" finished-at="2020-09-17T10:56:29 IST">
+  <suite name="Default suite" duration-ms="47477" started-at="2020-09-18T09:51:07 IST" finished-at="2020-09-18T09:51:54 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="20617" started-at="2020-09-17T10:56:08 IST" finished-at="2020-09-17T10:56:29 IST">
+    <test name="Default test" duration-ms="47477" started-at="2020-09-18T09:51:07 IST" finished-at="2020-09-18T09:51:54 IST">
       <class name="com.maven.AppTest">
-        <test-method status="PASS" signature="setupInitiation()[pri:0, instance:com.maven.AppTest@5e853265]" name="setupInitiation" is-config="true" duration-ms="4997" started-at="2020-09-17T10:56:08 IST" finished-at="2020-09-17T10:56:13 IST">
+        <test-method status="PASS" signature="setupInitiation()[pri:0, instance:com.maven.AppTest@5e853265]" name="setupInitiation" is-config="true" duration-ms="11145" started-at="2020-09-18T09:51:07 IST" finished-at="2020-09-18T09:51:18 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupInitiation -->
-        <test-method status="PASS" signature="verifyOneStopFlightCount()[pri:0, instance:com.maven.AppTest@5e853265]" name="verifyOneStopFlightCount" duration-ms="13513" started-at="2020-09-17T10:56:13 IST" finished-at="2020-09-17T10:56:27 IST">
+        <test-method status="PASS" signature="verifyOneStopFlightCount()[pri:0, instance:com.maven.AppTest@5e853265]" name="verifyOneStopFlightCount" duration-ms="34543" started-at="2020-09-18T09:51:18 IST" finished-at="2020-09-18T09:51:53 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyOneStopFlightCount -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.maven.AppTest@5e853265]" name="tearDown" is-config="true" duration-ms="2055" started-at="2020-09-17T10:56:27 IST" finished-at="2020-09-17T10:56:29 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.maven.AppTest@5e853265]" name="tearDown" is-config="true" duration-ms="1543" started-at="2020-09-18T09:51:53 IST" finished-at="2020-09-18T09:51:54 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
